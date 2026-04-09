@@ -1,0 +1,5 @@
+fast_snapshot_poc
+/tmp/fast_snapshot_poc.dat
+*.o
+*.tar.gz
+notes/
