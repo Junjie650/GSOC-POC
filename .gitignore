@@ -3,3 +3,4 @@ fast_snapshot_poc
 *.o
 *.tar.gz
 notes/
+v2-plan-*.md
